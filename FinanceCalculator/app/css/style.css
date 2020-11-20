@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  display: block; }
+
+form input {
+  width: 80%;
+  margin-bottom: 3%; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlcyI6WyJzdHlsZS5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIioge1xuICBib3gtc2l6aW5nOiBib3JkZXItYm94O1xufVxuXG5ib2R5IHtcbiAgZGlzcGxheTogYmxvY2s7XG59XG5cbmZvcm0ge1xuICBpbnB1dCB7XG4gICAgd2lkdGg6IDgwJTtcbiAgICBtYXJnaW4tYm90dG9tOiAzJTtcblxuICB9XG59XG5cbiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxBQUFBLENBQUMsQ0FBQztFQUNBLFVBQVUsRUFBRSxVQUFVLEdBQ3ZCOztBQUVELEFBQUEsSUFBSSxDQUFDO0VBQ0gsT0FBTyxFQUFFLEtBQUssR0FDZjs7QUFFRCxBQUNFLElBREUsQ0FDRixLQUFLLENBQUM7RUFDSixLQUFLLEVBQUUsR0FBRztFQUNWLGFBQWEsRUFBRSxFQUFFLEdBRWxCIn0= */
